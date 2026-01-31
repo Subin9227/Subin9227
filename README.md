@@ -1,6 +1,6 @@
-# HWANG SUBIN
+# HWANG SUBIN (BINI)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=00599C&height=200&section=header&text=HWANG%20SUBIN&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=200&text=SUBIN%20HWANG&fontSize=45&animation=blinking&fontAlign=30&fontAlignY=35&desc=Positive%20Impact%20Developer&descSize=20&descAlign=60&descAlignY=55)
 
 <div align="center">
   <a href="https://quilt-workshop-99b.notion.site/BINI-c0da1ed95647449e8ab09b051a5e2ba9">
