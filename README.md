@@ -28,20 +28,20 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ### Productivity & Tools
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Cluade-74aa1c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Google Sheets-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Google Sheets-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
 <br>
 
 ## 💼 Experience & Projects
 ---
 ### **홍익대학교 기초과학과** | 실험 행정 및 교육 조교 (2023.03 ~ 2025.03)
-* **실험 고도화:** 30주차 분량의 물리 실험 검토 및 교재 수정 편집
-* **수업 운영:** 실험 영상 촬영/편집 및 강의 자료(PPT, Excel) 제작
-* **운영 관리:** 기초 실험 장비 점검 및 조교 회의 총괄 진행
+> **실험 고도화:** 30주차 분량의 물리 실험 검토 및 교재 수정 편집
+> **수업 운영:** 실험 영상 촬영/편집 및 강의 자료(PPT, Excel) 제작
+> **운영 관리:** 기초 실험 장비 점검 및 조교 회의 총괄 진행
 
 ### **AI 특화 캠퍼스 (Microsoft & Salesforce)** | 프로젝트 (2026.01)
-* **AI 면접 서비스:** 꼬리 질문을 포함한 AI 면접 시스템 개발 (1등 수상)
-* **서비스 고도화:** 데모 이후 지속적인 테스트를 통한 결함 탐지 및 에러 수정을 통한 안정화 확보
+> **AI 면접 서비스:** 꼬리 질문을 포함한 AI 면접 시스템 개발 (1등 수상)
+> **서비스 고도화:** 데모 이후 지속적인 테스트를 통한 결함 탐지 및 에러 수정을 통한 안정화 확보
 
 <br>
 
