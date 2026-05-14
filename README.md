@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=200&text=SUBIN%20HWANG&fontSize=45&animation=blinking&fontAlign=30&fontAlignY=35&desc=Positive%20Impact%20Developer&descSize=20&descAlign=60&descAlignY=55)
 
 <div align="center">
-  <a href="https://quilt-workshop-99b.notion.site/BINI-c0da1ed95647449e8ab09b051a5e2ba9">
-    <img src="https://img.shields.io/badge/NOTION-PORTFOLIO-black?style=for-the-badge&logo=notion&logoColor=white">
+  <a>
+    
     <img src="https://img.shields.io/badge/ENFP--T-FF69B4?style=for-the-badge&logo=target&logoColor=white">
   </a>
 </div>
