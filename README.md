@@ -6,9 +6,7 @@
   <a href="https://quilt-workshop-99b.notion.site/BINI-c0da1ed95647449e8ab09b051a5e2ba9">
     <img src="https://img.shields.io/badge/NOTION-PORTFOLIO-black?style=for-the-badge&logo=notion&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/subinHwang">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+ 
   <img src="https://img.shields.io/badge/ENFP--T-FF69B4?style=for-the-badge&logo=target&logoColor=white">
 </div>
 
