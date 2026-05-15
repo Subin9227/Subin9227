@@ -13,6 +13,7 @@
 * 🎓 **나노물리학 / 소프트웨어학** 학사 졸업 (총 평점 4.36 / 4.5)
 * 🌟 **성실함과 책임감**을 바탕으로 주변의 문제를 창의적으로 해결하는 개발자 지망생입니다.
 * 📧 **Contact:** subin9227@gmail.com
+* * 🔗 ** LinkedIn: ** [내 프로필 보기](https://www.linkedin.com/in/subin-linda-hwang/)
 
 <br>
 
