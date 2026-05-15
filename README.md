@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/ENFP--T-FF69B4?style=for-the-badge">
-  <a href="[본인의_링크드인_프로필_URL](https://www.linkedin.com/in/subin-linda-hwang/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/subin-linda-hwang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 
