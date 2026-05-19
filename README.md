@@ -42,16 +42,16 @@
 
 | 프로젝트 (역할) | 핵심 성과 및 기술 스택 | 링크 |
 | :--- | :--- | :---: |
-| **최종: '잔향'**<br>(Scentive AI 개발) | • **감정-향 치환 알고리즘 개발**: 사용자 감정 데이터를 분석해 최적의 향기를 추천하는 로직 설계 (**🏆1등 수상**)<br>• UI/UX 제작 및 데이터 전처리 수행 | [🎥](https://youtube.com/shorts/nYi8mjsfV_M?si=eeJ7ijwEloDH7rVR) |
-| **1차: CareerChain**<br>(AI 면접관 서비스) | • **맞춤형 면접 시스템**: 꼬리 질문 생성 알고리즘 개발 (**🏆1등 수상**)<br>• 시스템 에러 수정 및 QA를 통한 서비스 안정성 확보 | [🔗](https://github.com/baesisi3648/pjt-careerchain) [🎥](https://www.youtube.com/watch?v=d7kL5bwAQjE) |
+| **최종: '잔향'**<br>(Scentive AI 개발) | • **감정-향 치환 알고리즘 개발**: 사용자 감정 데이터를 분석해 최적의 향기를 추천하는 로직 설계 (**🏆1등 수상**)<br>• UI/UX 제작 및 데이터 전처리 수행 | [🎥유튜브 보러가기](https://youtube.com/shorts/nYi8mjsfV_M?si=eeJ7ijwEloDH7rVR) |
+| **1차: CareerChain**<br>(AI 면접관 서비스)<br>[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/baesisi3648/pjt-careerchain)) | • **맞춤형 면접 시스템**: 꼬리 질문 생성 알고리즘 개발 (**🏆1등 수상**)<br>• 시스템 에러 수정 및 QA를 통한 서비스 안정성 확보 | [🎥유튜브 보러가기](https://www.youtube.com/watch?v=d7kL5bwAQjE) |
 
 ### 📌 **Personal Projects** | 개인 프로젝트
 
-| 프로젝트 (링크) | 핵심 기능 및 주요 기술 스택 |
-| :--- | :--- |
-| **tenminute**<br>[[🔗]](https://github.com/Subin9227/tenminute) | • **감성형 10분 플래너**: 하루를 잘게 쪼개 기록하고 싶은 사람들을 위한 시간 관리 솔루션<br>• 미루는 습관 교정 및 생산성 향상을 위한 스케줄링 기능 제공 |
-| **account-book**<br>[[🔗]](https://github.com/Subin9227/account-book) | • **영수증 기반 가계부 웹앱**: 영수증 촬영 시 품목 자동 분류 시스템 구축 (**Google Vision OCR → GPT-4o-mini**)<br>• 소비 패턴 시각화 및 날짜별 가격 변동 추적 알고리즘 구현 |
-| **mapbusim**<br>[[🔗]](https://github.com/Subin9227/mapbusim) | • **토스 미니앱 기반 커뮤니티**: 개인화 온보딩 질문 인터페이스를 통한 유저 성향 분석<br>• 사용자의 답변을 기반으로 맵기 레벨을 측정하고 레벨 분포 확인 |
+| 프로젝트 | 핵심 기능 및 주요 기술 스택 | 링크 |
+| :--- | :--- | :--- |
+| **tenminute**<br>[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subin9227/tenminute) | • **감성형 10분 플래너**: 하루를 잘게 쪼개 기록하고 싶은 사람들을 위한 시간 관리 솔루션<br>• 미루는 습관 교정 및 생산성 향상을 위한 스케줄링 기능 제공 | [🌐텐미닛 작성하러가기](https://tenminute-wheat.vercel.app/) |
+| **account-book**<br>[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subin9227/account-book) | • **영수증 기반 가계부 웹앱**: 영수증 촬영 시 품목 자동 분류 시스템 구축 (**Google Vision OCR → GPT-4o-mini**)<br>• 소비 패턴 시각화 및 날짜별 가격 변동 추적 알고리즘 구현 | [🌐linkedin 소개글 보러가기](https://www.linkedin.com/posts/subin-linda-hwang_ocr-gpt-ai-activity-7446832827918299136-fHud?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADfcsmUB2HOXLUP0VusWz6LnwTMZWJLccTA) |
+| **mapbusim**<br>[![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subin9227/mapbusim) | • **토스 미니앱 기반 커뮤니티**: 개인화 온보딩 질문 인터페이스를 통한 유저 성향 분석<br>• 사용자의 답변을 기반으로 맵기 레벨을 측정하고 레벨 분포 확인 | [🌐맵부심테스트 하러가기](https://minion.toss.im/bsfvbbzg) |
 
 <br>
 
