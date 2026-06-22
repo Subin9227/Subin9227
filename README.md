@@ -70,3 +70,13 @@
 * **ESG 경영 동아리 (EJ):** MSCI ESG 데이터 분석 및 뉴스레터 발간
 * **가천대학교 튜터링:** 글로벌캠퍼스 물리 및 SW 기초교양 조교/튜터 활동
 * **보드게임 동아리 (리더스):** 기획부장으로서 게임 제작 스터디 및 활동 기획
+
+<br>
+
+## 🟩 My GitHub Calendar
+[![Hwang Subin's GitHub Calendar](https://ghchart.rshah.org/Subin9227)](https://github.com/Subin9227)
+
+<!--
+## 📊 GitHub Stats
+[![Hwang Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subin9227&show_icons=true&theme=tokyonight)](https://github.com/Subin9227)
+-->
