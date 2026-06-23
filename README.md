@@ -80,3 +80,9 @@
 ## 📊 GitHub Stats
 [![Hwang Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subin9227&show_icons=true&theme=tokyonight)](https://github.com/Subin9227)
 -->
+
+<br>
+
+![Money Copy](./assets/money-copy-card.svg)
+![Claude Badges](./assets/claude-badges.svg)
+![Claude Grass](./assets/claude-grass.svg)
