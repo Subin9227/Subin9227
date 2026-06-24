@@ -1,26 +1,61 @@
 {
   "generated_at": "2026-06-24",
-  "total_days": 1,
-  "active_days": 1,
-  "streak_days": 1,
-  "peak_day": "2026-05-28",
-  "recent_30d_tokens": 9032870,
+  "scope": "claude-code-local",
+  "total_days": 15,
+  "active_days": 14,
+  "streak_days": 2,
+  "longest_streak_days": 3,
+  "peak_day": "2026-06-17",
+  "recent_30d_tokens": 337720473,
   "monthly": {
     "month_label": "June 2026",
-    "estimated_cost_usd": 0,
+    "estimated_cost_usd": 236.47,
     "plan_price_usd": 20.0,
-    "multiplier": 0.0,
-    "total_tokens": 0,
-    "peak_day": null,
-    "top_model": null
+    "multiplier": 11.82,
+    "total_tokens": 247499732,
+    "peak_day": "2026-06-17",
+    "top_model": "claude-opus-4-8"
   },
+  "surfaces": [
+    {
+      "entrypoint": "claude-desktop",
+      "label": "Claude Desktop",
+      "total_tokens": 140603698,
+      "estimated_cost_usd": 161.8,
+      "session_count": 11,
+      "share": 0.4163
+    },
+    {
+      "entrypoint": "claude-vscode",
+      "label": "Claude Code (VS Code)",
+      "total_tokens": 132176481,
+      "estimated_cost_usd": 79.4,
+      "session_count": 6,
+      "share": 0.3914
+    },
+    {
+      "entrypoint": "cli",
+      "label": "Claude Code (CLI)",
+      "total_tokens": 64940294,
+      "estimated_cost_usd": 45.93,
+      "session_count": 8,
+      "share": 0.1923
+    }
+  ],
   "achievements": [
     {
       "code": "CACHE_WIZARD",
       "label": "Cache Wizard",
       "description": "Maintained a strong cache read rate.",
-      "earned_at": "2026-06-23T15:38:53.640031",
-      "value": "95%"
+      "earned_at": "2026-06-24T02:16:56.393428",
+      "value": "97%"
+    },
+    {
+      "code": "MONEY_MULTIPLIER",
+      "label": "Money Multiplier",
+      "description": "Generated at least 5x the configured plan value.",
+      "earned_at": "2026-06-24T02:16:56.393428",
+      "value": "11.82x"
     }
   ]
 }
