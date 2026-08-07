@@ -78,8 +78,8 @@
 
 <!-- CLAUDE_PROFILE_STATS:START -->
 
-![Money Copy](./assets/money-copy-card.svg)
-![Claude Badges](./assets/claude-badges.svg)
-![Claude Grass](./assets/claude-grass.svg)
+<!--![Money Copy](./assets/money-copy-card.svg)-->
+<!--![Claude Badges](./assets/claude-badges.svg)-->
+<!--![Claude Grass](./assets/claude-grass.svg)-->
 <!-- generated for Subin9227 -->
 <!-- CLAUDE_PROFILE_STATS:END -->
