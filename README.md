@@ -73,14 +73,6 @@
 
 <br>
 
-## 🟩 My GitHub Calendar
-[![Hwang Subin's GitHub Calendar](https://ghchart.rshah.org/Subin9227)](https://github.com/Subin9227)
-
-<!--
-## 📊 GitHub Stats
-[![Hwang Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subin9227&show_icons=true&theme=tokyonight)](https://github.com/Subin9227)
--->
-
 <br>
 
 
