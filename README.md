@@ -4,8 +4,17 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/ENFP--T-FF69B4?style=for-the-badge">
+  
   <a href="https://www.linkedin.com/in/subin-linda-hwang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://hwamgai.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/bini_dev_it/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
